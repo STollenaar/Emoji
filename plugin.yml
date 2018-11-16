@@ -1,0 +1,5 @@
+name: Emoji
+main: emoji.tollenaar.stephen.Emoji.EMain
+version: 0.001
+authors: [guitargun]
+description: display the emoji like discord
